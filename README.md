@@ -2,7 +2,7 @@
 
 This repository focuses on utilizing large language models (LLMs) to address challenges in software engineering, with an emphasis on generating transaction sequences for Solidity smart contracts. These sequences aim to improve the efficiency of symbolic execution, a method used for performing security analysis of smart contracts. This work seeks to enhance vulnerability detection, contributing to the robustness of Blockchain ecosystems.
 
-## Papers
+## Papers and Articles
 [VulnHunt-GPT: a Smart Contract vulnerabilities detector based on OpenAI ChatGPT](https://dl-acm-org.ezproxy.uta.edu/doi/pdf/10.1145/3605098.3636003)
 
 
